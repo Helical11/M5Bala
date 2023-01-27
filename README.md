@@ -1,13 +1,16 @@
-# Title
+# M5Bala
 
 ## About
 
-日本語  
-英語
+M5Balaを動かす  
+Running M5Bala
 
 ---
 
 ## Detail
+
+    M5Bala
+    M5Stack Fire(IMU6050 ver.)
 
 ### Overview
 
@@ -17,7 +20,7 @@
 
 ## Reference
 
-- [Title](URL)
+- [M5Stack Document](https://docs.m5stack.com/en/app/bala)
 
 ---
 
